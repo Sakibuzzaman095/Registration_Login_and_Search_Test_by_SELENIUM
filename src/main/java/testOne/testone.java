@@ -26,15 +26,15 @@ public class testone {
 //       driver.navigate().to("https://www.pickaboo.com/register/");
 //       driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[3]/div/center/div/form/div/div[1]/div/input")).sendKeys("Sakibuzzaman");
 //       driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[3]/div/center/div/form/div/div[2]/div/input")).sendKeys("Alif");
-//       driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[3]/div/center/div/form/div/div[3]/div/div/input")).sendKeys("01765105761");
+//       driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[3]/div/center/div/form/div/div[3]/div/div/input")).sendKeys("01765105***");
 //       driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[3]/div/center/div/form/div/div[4]/div/input")).sendKeys("2215");
 //       //driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[3]/div/center/div/form/div/div[3]/div/button/span[1]")).click();
 //       driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[3]/div/center/div/form/div/div[5]/button/span[1]")).click();
 
 
        //Login
-        driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[2]/div/center/div/form/div/div[1]/div/input")).sendKeys("01765105761");
-        driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[2]/div/center/div/form/div/div[2]/div/div/input")).sendKeys("Sakib69***");
+        driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[2]/div/center/div/form/div/div[1]/div/input")).sendKeys("017****");
+        driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[2]/div/center/div/form/div/div[2]/div/div/input")).sendKeys("Sakib");
         driver.findElement(By.xpath("/html/body/div[2]/main/div/div[2]/div/div[2]/div/center/div/form/div/div[3]/button/span[1]")).click();
 
         String ex_title="Customer Login";
